@@ -1,2 +1,1 @@
-# wordpress-related
-# wordpress shit
+# wordpress related snippets and things
